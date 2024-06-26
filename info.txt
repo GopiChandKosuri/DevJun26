@@ -4,3 +4,4 @@ Bangalore
 k8s,docker
 terraform
 Aws
+GCP
